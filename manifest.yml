@@ -1,0 +1,16 @@
+applications: 
+  - name: senpai-lucascanavesio-dev
+    memory: 64M
+    instances: 1
+    env:
+      - API_KEY: 'placeholder'
+  - name: senpai-lucascanavesio-test
+    memory: 64M
+    instances: 1
+    env:
+      - API_KEY: 'placeholder'
+  - name: senpai-lucascanavesio-prod
+    memory: 256M
+    instances: 1
+    env:
+      - API_KEY: 'placeholder'
