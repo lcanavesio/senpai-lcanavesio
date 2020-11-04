@@ -7,5 +7,5 @@ applications:
     memory: 64M
     instances: 1
   - name: senpai-lucascanavesio-prod
-    memory: 256M
+    memory: 128M
     instances: 1
